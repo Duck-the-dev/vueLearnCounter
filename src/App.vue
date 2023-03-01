@@ -57,7 +57,7 @@ useHead({
       <img src="./assets/vue.svg" class="logo vue h-44 w-44" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="LonesomeT0wn start" />
+  <HelloWorld />
 </template>
 
 <style scoped>
